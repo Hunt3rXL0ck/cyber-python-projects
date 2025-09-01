@@ -47,9 +47,9 @@ python beginner/password_checker.py
 
 ## 🛡️ Notes & Best Practices
 
-- All advanced projects should **only be run in a lab/test environment**.  
+- All advanced projects should only be run in a lab/test environment.
 - Follow cybersecurity ethics and safe coding practices.  
-- Scripts are designed for **learning purposes** and portfolio demonstration.
+- Scripts are designed for learning purposes and portfolio demonstration.
 
 ---
 
@@ -60,12 +60,3 @@ python beginner/password_checker.py
 - Networking with sockets and Scapy  
 - Security concepts: hashing, password strength, log parsing, encryption  
 - API integration and automation scripting  
-
----
-
-## 📌 Next Steps
-
-- Expand projects with GUI or CLI enhancements  
-- Add logging, error handling, and configuration files  
-- Combine multiple scripts into a **Cybersecurity Toolkit**  
-- Share on GitHub and LinkedIn for portfolio showcase  
